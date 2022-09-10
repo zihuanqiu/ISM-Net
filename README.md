@@ -1,3 +1,4 @@
 # ISM-Net
-Official implementation of ISM-Net
-Coming soon!
+Here is the official implementation of ISM-Net.
+
+Code will be released soon!
