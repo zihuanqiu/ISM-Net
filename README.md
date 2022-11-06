@@ -2,6 +2,8 @@
 
 ![structure](./resources/overall.png)
 
+[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4179872)
+
 ## Usage
 
 ```
