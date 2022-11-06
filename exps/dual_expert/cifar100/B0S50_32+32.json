@@ -1,0 +1,18 @@
+{
+    "prefix": "B0S50",
+    "dataset": "cifar100",
+    "memory_size": 2000,
+    "memory_per_class": 20,
+    "fixed_memory": false,
+    "order_ls": [1],
+    "init_cls": 2,
+    "increment": 2,
+    "start_task": 0,
+    "model_name": "dual_expert",
+    "convnet_type": "resnet32",
+    "channel_per_class": 5,
+    "queue_length": 5,
+    "mix_ratio": 0.5,
+    "gpu": ["3"],
+    "seed": 1993
+}

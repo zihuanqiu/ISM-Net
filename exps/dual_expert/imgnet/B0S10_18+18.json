@@ -1,0 +1,18 @@
+{
+    "prefix": "B0S10",
+    "dataset": "imagenet1000",
+    "memory_size": 20000,
+    "memory_per_class": 20,
+    "fixed_memory": false,
+    "order_ls": [0],
+    "init_cls": 100,
+    "increment": 100,
+    "start_task": 1,
+    "model_name": "dual_expert",
+    "convnet_type": "resnet18",
+    "channel_per_class": 1,
+    "queue_length": 5,
+    "mix_ratio": 0.5,
+    "gpu": ["2", "3"],
+    "seed": 1993
+}
