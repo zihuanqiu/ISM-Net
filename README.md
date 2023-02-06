@@ -1,7 +1,9 @@
 # ISM-Net: Mining incremental semantics for class incremental learning
 
-![structure](./resources/overall.png)
+<img src="./overall.png" width = "800" align=center />
 
+
+**Errata: The correct version of Figure 3 in the paper is shown above.**
 ## Usage
 
 ```
