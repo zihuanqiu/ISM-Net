@@ -17,10 +17,14 @@ We thank to this repo(https://github.com/G-U-N/PyCIL) for the base code framewor
 ## Citation
 Please cite our paper if you find the work useful:
 
-@article{qiu2022ism,
-  title={ISM-Net: Mining incremental semantics for class incremental learning},
-  author={Qiu, Zihuan and Xu, Linfeng and Wang, Zhichuan and Wu, Qingbo and Meng, Fanman and Li, Hongliang},
-  journal={Neurocomputing},
-  year={2022},
-  publisher={Elsevier}
+@article{QIU2023130,
+title = {ISM-Net: Mining incremental semantics for class incremental learning},
+journal = {Neurocomputing},
+volume = {523},
+pages = {130-143},
+year = {2023},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2022.12.029},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231222015259},
+author = {Zihuan Qiu and Linfeng Xu and Zhichuan Wang and Qingbo Wu and Fanman Meng and Hongliang Li}
 }
